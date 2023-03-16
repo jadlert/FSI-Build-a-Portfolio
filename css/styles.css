@@ -1,1 +1,27 @@
 <link rel ="stylesheet" href ="style.css"/>
+div 
+{
+  line-height: 1.8em;
+  background: blue;
+  border-style: SOLID;
+}
+/* class selectors always stars with a . */
+.main-sector
+{
+  border-color: purple;
+  font-size: 24px;
+  background: orange;
+  border: 3px dashed grey
+}
+.main-secondsector
+{
+  font-size: 40px;
+  background: pink;
+  border: 3px dot purple
+}
+.list
+{
+  font-family: "time new roman", times, serif;
+  font-size: 12;
+  color: red;
+}
