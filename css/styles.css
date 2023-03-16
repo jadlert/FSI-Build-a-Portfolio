@@ -10,8 +10,8 @@ div
 {
   border-color: purple;
   font-size: 24px;
-  background: orange;
-  border: 3px dashed grey
+  background: silver ;
+  border: 3px dashed blue
 }
 .main-secondsector
 {
@@ -30,4 +30,4 @@ div
   border-color: cornflowerblue;
   font-size: 24px;
   background: mintcream;
-  border: 3px dashed grey
+  border: 3px dashed rgb(128, 128, 128)
