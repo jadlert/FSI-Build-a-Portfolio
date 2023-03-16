@@ -16,7 +16,7 @@ div
 .main-secondsector
 {
   font-size: 40px;
-  background: pink;
+  background: greenyellow;
   border: 3px dot purple
 }
 .list
@@ -25,3 +25,9 @@ div
   font-size: 12;
   color: red;
 }
+.main-s
+{
+  border-color: cornflowerblue;
+  font-size: 24px;
+  background: mintcream;
+  border: 3px dashed grey
